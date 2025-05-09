@@ -29,6 +29,8 @@ on the top-ranked evidence and
 align each answer sentence to its most similar
 evidence, yielding explicit citations.
 
+<img src="Images/pipeline.png" alt="Three step pipeline" style="width:300px;"/>
+
 ## Models
 
 Models taken from Huggingface: \
