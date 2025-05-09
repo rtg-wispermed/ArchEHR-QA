@@ -22,12 +22,12 @@ both answer quality and trustworthiness in clinical QA systems.
 1. BioClinicalBERT classifies
 note sentences as essential, supplementary, or
 not-relevant, with robustness improved via
-synonym and paraphrase augmentation;
+synonym and paraphrase augmentation
 2. DistilBART-Med-Summary generates an answer conditioned solely
-on the top-ranked evidence and
+on the top-ranked evidence
 3. PubMedBERT embeddings
 align each answer sentence to its most similar
-evidence, yielding explicit citations.
+evidence, yielding explicit citations
 
 <img src="Images/pipeline.png" alt="Three step pipeline" style="width:300px;"/>
 
